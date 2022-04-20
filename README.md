@@ -10,7 +10,7 @@ DoNation is an online platform where person can donate their goods and the perso
 - Directly chat with the owner.
 - If someone wants to raise a hand on a posted donation item, they can easily do that.
 
-## Link to other Repos related to Kolegia
+## Link to other Repos
 
 1. [DoNation Frontend](https://github.com/thebeast1819/DoNation.git)
 
