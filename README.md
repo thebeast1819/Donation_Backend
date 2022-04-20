@@ -1,28 +1,22 @@
-# Kolegia
+# DoNation
 
-<p align="center">
-  <img width="500" src="https://i.imgur.com/8NsQdLA.png" />
-</p>
 
-Kolegia is a platform where users can post their lost items and find them. Users can also sell their items by posting them.
+DoNation is an online platform where person can donate their goods and the person in need can get that easily. Users can also post their requirements.
 
 ## Features
 
-- Users can post their lost items and other users can help them find it.
-- Users can also sell something, by posting it on the platform.
+- Users can post their items for donation and other users can get that who are in need.
 - If a user requires something, they can post a requirement for that.
-- Directly chat with the seller of the product for buying any item.
-- If someone wants to raise a hand on a lost item, they can easily do that.
-- Light/Dark Mode support.
+- Directly chat with the owner.
+- If someone wants to raise a hand on a posted donation item, they can easily do that.
 
 ## Link to other Repos related to Kolegia
 
-1. [Frontend Web application](https://github.com/adarsharyan002/Kolegia_FrontEnd) 
-2. [Mobile Application](https://github.com/kartikeyvaish/Kolegia_Mobile)
+1. [DoNation Frontend](https://github.com/thebeast1819/DoNation.git)
 
 ## Development Setup
 
-To set up Kolegia for development, you need to install the following dependencies:
+To set up DoNation for development, you need to install the following dependencies:
 
 - Install [Node](https://nodejs.org/en/)
 - Install [MongoDB](https://www.mongodb.com/download-center/community)
@@ -54,11 +48,11 @@ You'll have to create a `.env` file for environment variables with the variables
 
 ### Step 5: Clone the repository
 
-    git clone https://github.com/kartikeyvaish/Kolegia-Backend.git
+    git clone https://github.com/thebeast1819/Donation_Backend.git
 
 ### Step 6: Install dependencies
 
-    cd Kolegia-Backend
+    cd Donation_Backend
 
     npm install
 
@@ -92,8 +86,7 @@ requirements=""
 raisedhands=""
 chats=""
 otp=""
-buysell=""
-lostfound=""
+donateditems=""
 feedback=""
 
 CLOUDINARY_URL=""
